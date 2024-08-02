@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 
 sudo pacman -Syu --noconfirm
 sudo pacman -Sy neovim --noconfirm
